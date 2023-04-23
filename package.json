@@ -1,0 +1,29 @@
+{
+  "name": "learning_tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olechnaya/moduleC7_homework.git"
+  },
+  "keywords": [
+    "tdd",
+    "test"
+  ],
+  "author": "ollyko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olechnaya/moduleC7_homework/issues"
+  },
+  "homepage": "https://github.com/olechnaya/moduleC7_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
